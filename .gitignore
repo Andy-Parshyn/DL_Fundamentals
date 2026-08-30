@@ -223,3 +223,6 @@ data/
 *.pt
 *.pth
 .claude/settings.local.json
+Lecture_5/HW/seg_pred/seg_pred
+Lecture_5/HW/seg_test
+Lecture_5/HW/seg_train
