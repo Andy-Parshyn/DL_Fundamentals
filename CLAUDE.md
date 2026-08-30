@@ -10,10 +10,17 @@ There is no fixed course; the user provides a detailed explanation of what to bu
 
 ## Language
 
-- **Tasks are written in Ukrainian, and the user may speak Ukrainian.** Understand and respond in
-  Ukrainian when the user writes in Ukrainian; match the language they use.
+- **The user's language is Ukrainian.** Explanations, code comments, and markdown notes in
+  notebooks must be in Ukrainian.
 - **Code stays standard:** English identifiers, standard DL notation, and English library APIs.
-  Comments, markdown explanations, and printed/plot labels may be in Ukrainian when helpful.
+  Printed/plot labels may be in Ukrainian.
+
+## Response style
+
+- **Default output style: Learning, but concise.** Explain the concept behind what the code does,
+  in a few sentences, then stop. Teach the mechanism, not the obvious.
+- **Be concise and less verbose overall.** Short answers, no padding, no restating the task,
+  no long summaries at the end. One clear explanation beats three paragraphs.
 
 ## How to deliver code
 
