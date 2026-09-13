@@ -226,3 +226,9 @@ data/
 Lecture_5/HW/seg_pred/seg_pred
 Lecture_5/HW/seg_test
 Lecture_5/HW/seg_train
+
+# Lecture 6 HW artifacts
+Lecture_6/HW/data.zip
+Lecture_6/HW/runs/
+Lecture_6/HW/weights/
+Lecture_6/HW/indoor.yaml
